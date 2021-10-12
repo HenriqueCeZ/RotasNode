@@ -1,6 +1,6 @@
 import validator from "validator";
 import express from 'express'
-import mainRoutes from './routes/index'
+import mainRoutes from './routs/index'
 const server = express();
 
 server.use(mainRoutes);
