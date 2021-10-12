@@ -25,4 +25,4 @@ server.get('/Voos/:ida-:volta', (req:Request,res:Response)=>{
 
 
 });
-console.log(validator.isEmail("Henriquecezar.jp@gmail.com"));
+console.log(validator.isEmail("Teste.Validator@gmail.com"));
